@@ -1,3 +1,10 @@
+# PIAIC BootCamp2020 Class3
+### Components and Props
+
+http://irfan-bootcamp2020-class3.surge.sh/
+
+Auto Deployment on Surge through Github actions with custome YAML config.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
